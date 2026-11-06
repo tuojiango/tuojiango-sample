@@ -87,7 +87,7 @@ body {
 
 .social-icons {
     align: center;
-    
+    display: flex;
     gap: 15px; /* Increased gap */
     margin-bottom: 15px;
 }
