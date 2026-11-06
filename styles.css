@@ -10,7 +10,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-image: url('./Natlan.png');
+    background-image: url('https://wallpapers.com/images/hd/genshin-impact-liyue-harbor-night-scene-d3jpc6k8uq4f269k.jpg');
     /* darken bg image only */
     background-color: grey;
     background-blend-mode: multiply;
@@ -86,7 +86,8 @@ body {
 }
 
 .social-icons {
-    display: flex;
+    align: center;
+    
     gap: 15px; /* Increased gap */
     margin-bottom: 15px;
 }
